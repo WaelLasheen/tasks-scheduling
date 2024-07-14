@@ -1,5 +1,3 @@
-![search](https://github.com/user-attachments/assets/5227e4ed-01ee-4ad8-88c3-9e69abaccf70)# Task Scheduler App
-
 A simple task scheduler app built using Flutter. The app allows users to add, update, and delete tasks. It uses SQLite for local data storage.
 
 ## Features
@@ -11,9 +9,10 @@ A simple task scheduler app built using Flutter. The app allows users to add, up
 
 ## Screenshots
 
-<p align="center">
+<div style="display: flex; justify-content: space-evenly;">
   <img src="https://github.com/user-attachments/assets/48aa99ff-6ecb-428e-8dfd-5358b7ee33a1" width="200" />
   <img src="https://github.com/user-attachments/assets/898e6fa7-c4fb-4c72-9efa-6ef3c6c5a0fa" width="200" />
   <img src="https://github.com/user-attachments/assets/047201eb-c995-4b2e-9992-df6225144875" width="200" />
   <img src="https://github.com/user-attachments/assets/88da5b1e-9706-40b7-b455-9e91071e3612" width="200" />
-</p>
+</div>
+
